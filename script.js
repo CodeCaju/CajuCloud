@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Lista de arquivos manualmente adicionada
     let files = [
-        "duststorm_v1.txt",
+        "duststorm_v1.zip",
         "duststorm_v2.zip",
         "duststorm_v3.zip"
     ];
